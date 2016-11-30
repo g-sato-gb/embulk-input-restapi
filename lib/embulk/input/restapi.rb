@@ -1,3 +1,7 @@
+require 'faraday'
+require 'json'
+require 'jsonpath'
+
 module Embulk
   module Input
 
